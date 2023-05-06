@@ -1,0 +1,7 @@
+{
+  id: '#present',
+  name: 'Tony stark',
+  email: 'tonyStark926@hotmail.com',
+  gender: 'male',
+  status: 'active'
+}

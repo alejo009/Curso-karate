@@ -1,6 +1,10 @@
 {
   "name": "Tony stark",
   "gender": "male",
+<<<<<<< HEAD
   "email": "tonyStark926@hotmail.com",
+=======
+  "email": "tonyStark2345@hotmail.com",
+>>>>>>> b7b623d7c7af10e5857736883ae8de033b2001f1
   "status": "active"
 }

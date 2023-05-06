@@ -7,7 +7,13 @@ Feature: Create users
       Given path 'public/v2/users'
       And request read('body.json')
       When method POST
+<<<<<<< HEAD
       Then status 201
       And print 'Response',response
       And match response == read('expectedvalues.json')
       And match response == read('expectedformats.json')
+=======
+      Then status 200
+      And print 'Response',response
+      And print 'Response',response
+>>>>>>> b7b623d7c7af10e5857736883ae8de033b2001f1
